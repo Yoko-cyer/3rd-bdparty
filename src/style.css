@@ -1,0 +1,96 @@
+body {
+    background-color: #00bbf0;
+    background-image: url(../img/background_car.jpg);
+}
+
+/* navbar */
+.navbar-custom {
+    background-color: #fdb44b;
+    font-size: larger;
+}
+.navbar-brand {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar-brand:hover {
+    font-size: larger;
+}
+.nav-link {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+} 
+.nav-link:hover {
+    font-size: larger;
+}
+
+
+/* header */
+header {
+    background-color: #005792;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    padding: 100px;
+}
+
+
+
+/* footer */
+footer {
+    /* background-color: #fdb44b; */
+    width: 100%;
+    text-align: center;
+}
+
+/* Home page */
+
+table {
+    color: white;
+    margin: 0 auto;
+}
+
+.invitation {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.invitation img {
+    height: 250px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+/* Message page */
+
+.message {
+    text-align: center;
+}
+
+.message img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+/* About page */
+.about {
+    text-align: center;
+}
+.link {
+    color: black;
+}
+
+ul {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Join page */
+
+iframe {
+    margin: 0 auto;
+}
