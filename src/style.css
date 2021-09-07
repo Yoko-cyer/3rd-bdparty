@@ -84,10 +84,15 @@ table {
     color: black;
 }
 
+
+
 ul {
     font-size: 20px;
-    text-align: center;
+    display: inline-block;
+    /* width: 600px; */
+    text-align: left;
 }
+
 
 /* Join page */
 
